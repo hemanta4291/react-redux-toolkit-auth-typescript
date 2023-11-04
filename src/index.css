@@ -16,3 +16,8 @@ code {
 }
 
 
+.users-table tr:first-child td{
+  padding-top: 15px;
+}
+
+

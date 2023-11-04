@@ -35,7 +35,7 @@ const Users: React.FC = () => {
               <th className='pb-1 px-12 text-right rounded-tr-xl rounded-br-xl'>OPTIONS</th>
             </tr>
           </thead>
-          <tbody className='text-gray-700 font-semibold text-sm'>
+          <tbody className='text-gray-700 font-semibold text-sm users-table'>
             {data?.data?.map((user: User) => (
               <tr>
                 <td className='py-[10px] px-12'>{user.id}</td>
