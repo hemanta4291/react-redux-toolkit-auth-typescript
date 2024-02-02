@@ -1,6 +1,10 @@
 
 # LIVE IN NETLIFY
 https://react-redux-toolkit-auth-project.netlify.app/
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
 
 # Getting Started with Create React App
 
