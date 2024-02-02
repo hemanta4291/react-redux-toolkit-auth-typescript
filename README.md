@@ -1,6 +1,7 @@
 
-# LIVE IN NETLIFY
+# Live in Netlify
 https://react-redux-toolkit-auth-project.netlify.app/
+# Credentials
 {
     "email": "eve.holt@reqres.in",
     "password": "cityslicka"
